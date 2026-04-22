@@ -1,6 +1,6 @@
 {
   "version_code": 1,
-  "version_name": "1.0.1",
-  "download_url": "AQUÍ_PONDREMOS_EL_LINK_LUEGO",
+  "version_name": "1.1.0",
+  "download_url": "https://github.com/Francis-pong/Serenox-OTA/raw/refs/heads/main/serenox_v1.bin",
   "changelog": "Mejoras en la estabilidad del Bluetooth y lectura de termistor."
 }
